@@ -57,7 +57,7 @@
 ## Part V. Conclusion
 **Estimated Time = 1 minute**
 
-*Sound Cue: [this](https://archive.org/details/Transition_201308) music at the end*
+*Sound Cue: [this](https://archive.org/details/Transition_201308) music at the end throughout the conclusion; it will fade out after the conclusion is over*
 
 * Briefly re-emphasize how we can all be T-shaped learners and benefit from it. Differentiate between the "I" and the "T."
 * Thank the audience for listening and give concluding notes here.
